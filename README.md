@@ -1,23 +1,4 @@
 # ⚡ Apache JMeter Exercises
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-1EAEDB)]()
-[![saythanks](https://img.shields.io/badge/say-thanks-1EAEDB.svg)](https://saythanks.io/to/catch.nkn%40gmail.com)
-[![](https://img.shields.io/badge/license-MIT-0a0a0a.svg?style=flat&colorA=1EAEDB)](https://qainsights.com)
-[![](https://img.shields.io/badge/%E2%9D%A4-QAInsights-0a0a0a.svg?style=flat&colorA=1EAEDB)](https://qainsights.com)
-[![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=1EAEDB)](https://www.youtube.com/user/QAInsights?sub_confirmation=1)
-[![](https://img.shields.io/badge/donate-paypal-1EAEDB)](https://www.paypal.com/paypalme/NAVEENKUMARN)
-
-![JMeter Exercise](./assets/JMeter-Exercise.png)
-
-These exercises were designed to learn JMeter by doing. This exercise series is a part of **Performance Testing Trilogy 🔺**. 
-
-Looking for LoadRunner Exercises? [Here it is](https://github.com/QAInsights/LoadRunner-Exercises).
-
-> Currently these series under active development.
-
-# ⚠ Important Notes
-
-- 🛑 Please do not inject any load into the below mentioned demo web application. 
-- 🆘 If you do not know how to proceed with the exercises, please raise an issue. I will help you out. But before that, please watch all my JMeter tutorials in [YouTube](https://www.youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_) 📽.
 
 # 🛠 Enviroment Setup
 
