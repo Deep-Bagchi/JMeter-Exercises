@@ -176,9 +176,3 @@ Hint: Use `href="/actions/Catalog.action?viewCategory=&categoryId=(.+?)"`
 </div>
 </details><br/>
 
-# ⏭ What's next?
-
-* [LoadRunner Exercises](https://github.com/QAInsights/LoadRunner-Exercises)
-
-# 💰 Donate
-☕ <a target="_blank" href="https://www.buymeacoffee.com/qainsights">Buy me a tea</a>
